@@ -15,17 +15,8 @@
     max-width: 1728px;
     margin: 0px auto;
     justify-self: center;
-    padding-left: 3%;
-    padding-right: 3%;
     display: flex;
     justify-content: center;
-}
-
-@media screen and (min-width:1728px) {
-    .container {
-        padding-left: 3%;
-        padding-right: 3%;   
-    }
 }
 
 .header-box {
